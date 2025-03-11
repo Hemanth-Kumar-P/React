@@ -6,6 +6,7 @@ const StudentTable = () => {
         { name: 'Rajesh Kumar', rollNo: '21EC002', marks: 78 },
         { name: 'Priya Sharma', rollNo: '21EC003', marks: 92 },
         { name: 'Anjali Gupta', rollNo: '21EC004', marks: 88 },
+        { name: 'Aman Singh', rollNo: '21EC005', marks: 90}
     ];
 
     return (
